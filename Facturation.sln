@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facturation", "Facturation.csproj", "{00579254-491C-4C3A-B093-3E0216EC4BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00579254-491C-4C3A-B093-3E0216EC4BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00579254-491C-4C3A-B093-3E0216EC4BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00579254-491C-4C3A-B093-3E0216EC4BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00579254-491C-4C3A-B093-3E0216EC4BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870ACEF3-C1C2-443B-8D58-992A6945CF7D}
+	EndGlobalSection
+EndGlobal
